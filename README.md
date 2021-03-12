@@ -50,12 +50,15 @@ Choose the number of your song: 1
 
 6) finally you will get the mp3 link 
 ```sh
-Successfully Stole the MP3 Link
+Successfully stole MP3!
 [
-  'https://ac.cf.saavncdn.com/138/a7a6718778707bb38c69c16da2b6f74d_160.mp4
+  'https://ac.cf.saavncdn.com/138/a7a6718778707bb38c69c16da2b6f74d_160.mp4?Expires=1615537367&Signature=iDCt4ZH4OD-RS3ZT2XitVYbVROTzcX3V5gyHZwATmxij9ha7-imyWICNnZFa680kire6ENlmngQnanTPBqDDDg96RQj812qy7ts2psSmjR2SmID7cwdk2mSSP6pf5h0wzw~icohzMWL9TpNnfXcVu613gLs5TzPBYuuCyEd0KkSqZmHdK-1QFfKRJrNqkatLYVQFZkseOMs7pJR3ptgm5LGyCm8nb2-PMzSBLCFGT8RTRxp34AeV6qPLKGhXouCerPW-aGFx6EtGB3sVrEPv9Gc27PLqexslvkA0oGRfCQfN~cxxY2r3~gWKpLR12koLTDyoJauy1v0qksCNuJ4zPA__&Key-Pair-Id=APKAJB334VX63D3WJ5ZQ'
 ]
 
+
 ```
+### Note:
+the given link is dynamic and it will expire soon so, make sure you use the link/ send the link to your client as soon as possible
 
 ## Installation
 Windows, Mac, Linux & Termux(Android shell):

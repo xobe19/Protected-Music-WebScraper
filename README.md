@@ -9,7 +9,7 @@ Search and Download mp3 files and Podcasts from websites WITHOUT API, using pupp
 2) Get MP3 Link of the songs/Podcasts
  3) NO download limit / Ads
 ## Example:
-1) Let's search a song "EK thi pyaar" using the format
+1) Let's search a song "Ek din pyaar" using the format
 ```sh
 node app.js <name of the song>
 ```
